@@ -627,6 +627,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "cynic-introspection-query"
+version = "0.1.0"
+dependencies = [
+ "assert_matches",
+ "cynic",
+ "insta",
+ "maplit",
+]
+
+[[package]]
 name = "cynic-proc-macros"
 version = "0.15.1"
 dependencies = [

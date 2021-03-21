@@ -6,6 +6,7 @@ members = [
     "examples",
     "cynic-querygen",
     "cynic-querygen-web",
+    "cynic-introspection-query",
     "tests/querygen-compile-run",
     "tests/ui-tests"
 ]
